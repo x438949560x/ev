@@ -1,0 +1,9 @@
+user_name = 'fasfas'
+pwd = 'fasfsaf'
+time_gap = 5
+receiver = '1654a41@qq.com'
+continues_play_gap = 60
+continues_play_max = 5
+play_max_day = 20
+size = 10
+recall = True
